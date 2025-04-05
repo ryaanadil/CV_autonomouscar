@@ -9,7 +9,7 @@ Our team built an autonomous car that could identify, track, and follow a flying
 **Objectives**
 - Use machine learning and OpenCV to recognize drone
 - Use ROS2 running on the Jetson Nano to connect vision and car control
-- Follow the drone as it flies around.
+- Follow the drone as it flies around
 - Arrest motion when drone leaves the frame or moves to land on the moving base
 
 
