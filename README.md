@@ -4,7 +4,7 @@
 [![Video of final project](https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-6/assets/68714078/c1dc3038-7345-4b93-b0b6-4b096942d60a)](http://www.youtube.com/watch?v=H7b-YXtxtiM&ab_)
 
 ### Abstract 
-Our team built an autonomous car that could identify, track, and follow a flying drone using machine learning, openCV, and ROS2. 
+Our team built an autonomous car that could identify, track, and follow a flying drone using machine learning, openCV, and ROS2
 
 **Objectives**
 - Use machine learning and OpenCV to recognize drone
