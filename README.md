@@ -18,7 +18,7 @@ Our team built an autonomous car that could identify, track, and follow a flying
   <p align="center"><img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-6/assets/164306890/d3f91601-d6c6-426f-b8aa-4733af1c4f2f" width="700" height="400"></p>
 
 
-One of the main focus was to design a camera mount with an adjustable angle of attack for us to optimize the cars field of view and take in account that latency would result in the drone being lost intermittently. To account for this we tried to optimize our field of view.
+One of the main focus was to design a camera mount with an adjustable angle of attack for us to optimize the cars field of view and take in account that latency would result in the drone being lost intermittently. To account for this we tried to optimize our field of view
 
   <p align="center"><img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-6/assets/164306890/fec69d6d-94ca-4cc7-9c39-1b82783bdb7e" width="700" height="400"></p>
 
